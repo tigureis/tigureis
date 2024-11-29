@@ -5,11 +5,11 @@
 - 📫 I dont use Instagram, but you can find me on linkedin.com/in/thiago-reis-martins-02606242/
 
 - ⚡ Fun fact: I just encrypted my phone number in this puzzle:
--     S|A|T|O|R
--     A|R|E|P|O
--     T|E|N|E|T
--     O|P|E|R|A
--     R|O|T|A|S
+-     S | A | T | O | R
+-     A | R | E | P | O
+-     T | E | N | E | T
+-     O | P | E | R | A
+-     R | O | T | A | S
 - Crack it and give me a call, and I’ll treat you to a coffee!
   
 <!---
