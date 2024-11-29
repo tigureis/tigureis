@@ -4,13 +4,13 @@
 - 💞️ On the hunt for a data engineering role to put my skills to the test and learn from experienced professionals.
 - 📫 I dont use Instagram, but you can find me on linkedin.com/in/thiago-reis-martins-02606242/
 
-- ⚡ Fun fact: I’ve hidden my phone number in this ancient word puzzle. 
+- ⚡ Fun fact: I just encrypted my phone number in this puzzle:
 -     S|A|T|O|R
 -     A|R|E|P|O
 -     T|E|N|E|T
 -     O|P|E|R|A
 -     R|O|T|A|S
-- If you can crack the code, give me a call and I’ll buy you a coffee!   
+- Crack it and give me a call, and I’ll treat you to a coffee!
   
 <!---
 tigureis/tigureis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
