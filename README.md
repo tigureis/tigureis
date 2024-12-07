@@ -1,16 +1,14 @@
-- 👋 Hi, I’m Thiago, from Brasil!
-- 👀 Just getting started with this GitHub thing, and I'm already hooked! Excited to share my journey here!
-- 🌱 Leveling up my data engineering skills, one pipeline at a time.
-- 💞️ On the hunt for a data engineering role to put my skills to the test and learn from experienced professionals.
-- 📫 I dont use Instagram, but you can find me on linkedin.com/in/thiago-reis-martins-02606242/
+Hello World!
 
-- ⚡ Fun fact: I just encrypted my phone number in this puzzle:
--     S | A | T | O | R
--     A | R | E | P | O
--     T | E | N | E | T
--     O | P | E | R | A
--     R | O | T | A | S
-- Crack it and give me a call, and I’ll treat you to a coffee!
+I'm Thiago Reis, from Brazil   
+I'm a seasoned healthcare operations professional seeking a career shift to Data Engineering. Eager to leverage my analytical and problem-solving skills to contribute to impactful data projects. I'm excited to learn new technologies and techniques, and I'm committed to becoming a valuable asset to a data-driven team. Let's connect and build something great together!
+
+Connect with me:
+
+[<img src="https://github.com/user-attachments/assets/a175eace-581d-4bc0-8f4b-c52d71e8d61d" width="35" height="35" alt="LinkedIn">](https://www.linkedin.com/in/thiago-reis-martins-02606242/)
+
+
+
   
 <!---
 tigureis/tigureis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
