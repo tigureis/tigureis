@@ -3,10 +3,28 @@ Hello World!
 I'm Thiago Reis, from Brazil   
 I'm a seasoned healthcare operations professional seeking a career shift to Data Engineering. Eager to leverage my analytical and problem-solving skills to contribute to impactful data projects. I'm excited to learn new technologies and techniques, and I'm committed to becoming a valuable asset to a data-driven team. Let's connect and build something great together!
 
-Connect with me:
 
-[<img src="https://github.com/user-attachments/assets/a175eace-581d-4bc0-8f4b-c52d71e8d61d" width="35" height="35" alt="LinkedIn">](https://www.linkedin.com/in/thiago-reis-martins-02606242/)
+### Connect with me:
 
+[<img src="https://github.com/tigureis/logos/blob/social-icons/linkedin.svg" width="35" height="35" alt="LinkedIn">](https://www.linkedin.com/in/thiago-reis-martins-02606242/)
+
+
+
+## Skills
+### Languages
+
+<img src="https://github.com/tigureis/logos/blob/programming-languages/python.svg" width="35" height="35" alt="PYTHON" >Python
+
+<img src="https://github.com/tigureis/logos/blob/programming-languages/java.svg" width="35" height="25"  alt="JAVA" >Java
+
+<img src="https://github.com/tigureis/logos/blob/programming-languages/c%2B%2B.svg" width="35" height="35"  alt="C++" >C/C++
+
+
+### Others
+
+<img src="https://github.com/tigureis/logos/blob/databases/mongodb.svg" width="35" height="35" alt="MongoDB" >MongoDB
+
+<img src="https://github.com/tigureis/logos/blob/frameworks/nodejs.svg" width="35" height="35" alt="Nodejs" >NodeJS
 
 
   
