@@ -26,6 +26,9 @@ I'm a seasoned healthcare operations professional seeking a career shift to Data
 
 <img src="https://github.com/tigureis/logos/blob/frameworks/nodejs.svg" width="35" height="35" alt="Nodejs" >NodeJS
 
+<img src="https://github.com/tigureis/logos/blob/databases/postgresql.svg" width="35" height="35" alt="Nodejs" >PostgreSQL
+
+<img src="https://github.com/tigureis/logos/blob/cloud/docker.svg" width="35" height="35" alt="Nodejs" >Docker
 
   
 <!---
