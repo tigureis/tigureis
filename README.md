@@ -26,10 +26,13 @@ I'm a seasoned healthcare operations professional seeking a career shift to Data
 
 <img src="https://github.com/tigureis/logos/blob/frameworks/nodejs.svg" width="35" height="35" alt="Nodejs" >NodeJS
 
-<img src="https://github.com/tigureis/logos/blob/databases/postgresql.svg" width="35" height="35" alt="Nodejs" >PostgreSQL
+<img src="https://github.com/tigureis/logos/blob/databases/postgresql.svg" width="35" height="35" alt="PostgreSQL" >PostgreSQL
 
-<img src="https://github.com/tigureis/logos/blob/cloud/docker.svg" width="35" height="35" alt="Nodejs" >Docker
+<img src="https://github.com/tigureis/logos/blob/cloud/docker.svg" width="35" height="35" alt="Docker" >Docker
 
+<img src="https://github.com/tigureis/logos/blob/new_logos/airflow_fundo_preto.png" width="35" height="35" alt="Airflow" >Airflow
+
+<img src="https://github.com/tigureis/logos/blob/new_logos/pyspark.png" width="35" height="35" alt="PySpark" >PySpark
   
 <!---
 tigureis/tigureis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
